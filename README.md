@@ -1,4 +1,4 @@
-# Two-Sample Hypothesis-t-Testing (T-Test) in Python
+# Two-Sample Hypothesis-Testing (T-Test) in Python
 
 ## 📌 Project Overview
 This project demonstrates **two-sample hypothesis testing** using Python.  
